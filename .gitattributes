@@ -1,2 +1,5 @@
 cleanedComments.csv filter=lfs diff=lfs merge=lfs -text
 dataFolder/processed/cleanedComments.csv filter=lfs diff=lfs merge=lfs -text
+models/bert/my_bert_model.zip filter=lfs diff=lfs merge=lfs -text
+models/dtm/dtm.joblib filter=lfs diff=lfs merge=lfs -text
+models/lda/lda_model.joblib filter=lfs diff=lfs merge=lfs -text
