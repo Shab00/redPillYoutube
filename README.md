@@ -83,11 +83,21 @@ This project provides a data-driven approach to understanding "red pill" content
 - **Purpose:** Analyzes the collected data to uncover trends, sentiments, and engagement patterns.
 - **Output:** Visualizations, insights, and processed data stored in `data/processed/`.
 
+### 5. Comment Section Deep Dive & Final Analysis 
+- **File:** `5.commentsSecton.ipynb`
+- **Purpose:** Integrates advanced NLP analyses including sentiment analysis, emotion detection, aspect-based sentiment, and key phrase extraction. Combines and visualizes findings for actionable insights and final reporting.
+- **Output:** Comprehensive visualizations, multi-dimensional and insights.
+
 ---
 
 ## Data Folder
 - **`data/raw/`:** Contains raw data downloaded from YouTube (e.g., video metadata, comments).
 - **`data/processed/`:** Contains cleaned and processed data ready for analysis.
+
+## Models Folder
+- **`models/bert/`:** Stores BERT-based model files (e.g., `my_bert_model.zip`).
+- **`models/dtm/`:** Contains topic modeling artifacts such as Dynamic Topic Model (`dtm.joblib`).
+- **`models/lda/`:** Includes Latent Dirichlet Allocation model files (`lda_model.joblib`).
 
 ---
 
