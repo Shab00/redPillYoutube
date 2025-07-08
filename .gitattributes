@@ -4,3 +4,5 @@ models/bert/my_bert_model.zip filter=lfs diff=lfs merge=lfs -text
 models/dtm/dtm.joblib filter=lfs diff=lfs merge=lfs -text
 models/lda/lda_model.joblib filter=lfs diff=lfs merge=lfs -text
 dataFolder/processed/comments_with_emotion_bad_prediction.csv filter=lfs diff=lfs merge=lfs -text
+dataFolder/processed/enriched_comments_with_emotions.csv filter=lfs diff=lfs merge=lfs -text
+dataFolder/processed/comments_with_emotions_SamLowe2.csv filter=lfs diff=lfs merge=lfs -text
