@@ -79,14 +79,20 @@ This project provides a data-driven approach to understanding "red pill" content
 - **Output:** Cleaned data stored in `data/processed/cleaned_video_metadata.csv` and `data/processed/cleaned_comments.csv`.
 
 ### 4. Red Pill Content Analysis and Insights
-- **File:** `3_red_pill_content_analysis_insights.ipynb`
+- **File:** `4.redPillAnalytics.ipynb`
 - **Purpose:** Analyzes the collected data to uncover trends, sentiments, and engagement patterns.
 - **Output:** Visualizations, insights, and processed data stored in `data/processed/`.
 
-### 5. Comment Section Deep Dive & Final Analysis 
+## 5. Comment Section Deep Dive & Final Analysis
 - **File:** `5.commentsSecton.ipynb`
-- **Purpose:** Integrates advanced NLP analyses including sentiment analysis, emotion detection, aspect-based sentiment, and key phrase extraction. Combines and visualizes findings for actionable insights and final reporting.
-- **Output:** Comprehensive visualizations, multi-dimensional and insights.
+- **Purpose:** Performs advanced analysis on YouTube comments, including:
+    - Sentiment analysis with multiple models (VADER, TextBlob, BERT, GoEmotions)
+    - Emotion detection and distribution visualisation
+    - Topic modelling (LDA) to uncover main discussion themes
+    - Word frequency analysis for positive and negative comments
+    - Per-video and per-channel emotional engagement and diversity
+    - Clear visual summaries (bar charts, word clouds, timelines, heatmaps)
+- **Output:** Actionable insights and comprehensive visualisations for final reporting.
 
 ---
 
