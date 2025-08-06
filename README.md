@@ -1,25 +1,25 @@
 ## Project Description
 
 ### Background
-The term "red pill" originates from the 1999 film *The Matrix*, where taking the red pill symbolizes awakening to harsh truths about reality. In contemporary culture, especially online, "red pill" has been adopted by various communities to describe content that challenges mainstream narratives, often focusing on topics like masculinity, self-improvement, anti-feminism, conspiracy theories, political incorrectness, and critiques of societal norms.
+The term "red pill" originates from the 1999 film *The Matrix*, where taking the red pill symbolises awakening to harsh truths about reality. In contemporary culture, especially online, "red pill" has been adopted by various communities to describe content that challenges mainstream narratives, often focusing on topics like masculinity, self-improvement, anti-feminism, conspiracy theories, political incorrectness, and critiques of societal norms.
 
-This project aims to analyze "red pill" content on YouTube by collecting and analyzing data from selected channels. By examining video metadata and comments, we seek to uncover trends, sentiments, and engagement patterns within this niche community.
+This project aims to analyse "red pill" content on YouTube by collecting and analysing data from selected channels. By examining video metadata and comments, we seek to uncover trends, sentiments, and engagement patterns within this niche community.
 
 ---
 
 ### Objectives
 1. **Data Collection:**
    - Retrieve video metadata (e.g., titles, views, likes, upload dates) from selected "red pill" YouTube channels.
-   - Collect comments from videos to analyze audience engagement and sentiment.
+   - Collect comments from videos to analyse audience engagement and sentiment.
 
 2. **Data Analysis:**
    - Perform exploratory data analysis (EDA) to identify trends in video performance and audience engagement.
    - Conduct sentiment analysis on comments to understand the tone and themes of audience discussions.
-   - Visualize findings to communicate insights effectively.
+   - Visualise findings to communicate insights effectively.
 
 3. **Insights:**
    - Identify common themes and topics in "red pill" content.
-   - Analyze how audience engagement varies across different types of content.
+   - Analyse how audience engagement varies across different types of content.
    - Provide actionable insights for researchers, content creators, and policymakers.
 
 ---
@@ -36,16 +36,16 @@ This project aims to analyze "red pill" content on YouTube by collecting and ana
 3. **Data Analysis:**
    - Perform EDA to uncover trends in video performance (e.g., views, likes, comments).
    - Use natural language processing (NLP) techniques for sentiment analysis on comments.
-   - Generate visualizations (e.g., bar charts, word clouds, time series plots) to communicate findings.
+   - Generate visualisations (e.g., bar charts, word clouds, time series plots) to communicate findings.
 
 4. **Insights and Reporting:**
-   - Summarize key findings and insights.
+   - Summarise key findings and insights.
    - Provide recommendations for further research or action.
 
 ---
 
 ### Significance
-This project provides a data-driven approach to understanding "red pill" content on YouTube. By analyzing video metadata and comments, we can:
+This project provides a data-driven approach to understanding "red pill" content on YouTube. By analysing video metadata and comments, we can:
 - Identify the most popular topics and themes within the "red pill" community.
 - Understand how audiences engage with this type of content.
 - Provide insights for researchers studying online communities and digital culture.
@@ -55,7 +55,7 @@ This project provides a data-driven approach to understanding "red pill" content
 
 ### Future Work
 - Expand the dataset to include more channels and videos.
-- Perform advanced NLP analysis (e.g., topic modeling, emotion detection).
+- Perform advanced NLP analysis (e.g., topic modelling, emotion detection).
 - Compare "red pill" content with other types of YouTube content (e.g., mainstream, educational).
 - Develop a dashboard for real-time monitoring of "red pill" content trends.
 
@@ -80,8 +80,8 @@ This project provides a data-driven approach to understanding "red pill" content
 
 ### 4. Red Pill Content Analysis and Insights
 - **File:** `4.redPillAnalytics.ipynb`
-- **Purpose:** Analyzes the collected data to uncover trends, sentiments, and engagement patterns.
-- **Output:** Visualizations, insights, and processed data stored in `data/processed/`.
+- **Purpose:** Analyses the collected data to uncover trends, sentiments, and engagement patterns.
+- **Output:** Visualisations, insights, and processed data stored in `data/processed/`.
 
 ## 5. Comment Section Deep Dive & Final Analysis
 - **File:** `5.commentsSecton.ipynb`
